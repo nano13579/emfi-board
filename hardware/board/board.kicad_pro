@@ -411,6 +411,30 @@
     [
       "53e09b28-454a-47c0-a65f-1a83b469195e",
       "Root"
+    ],
+    [
+      "9edb7809-d4fe-41df-b335-6c1b9d0d46a2",
+      "microcontroller unit"
+    ],
+    [
+      "028cca71-404b-4495-8c91-e9629769ea41",
+      "power management"
+    ],
+    [
+      "4b14108a-92f3-4ec3-936a-e8a45f34eb6a",
+      "pulse"
+    ],
+    [
+      "8a0f09c5-57ab-4def-b192-8f5aa3b09b48",
+      "hvc"
+    ],
+    [
+      "23c55cd0-6de6-424d-9261-69ed4b5f2c62",
+      "gate driver"
+    ],
+    [
+      "fa38cc7a-5894-49d9-b74b-5cbf2338676c",
+      "sensors"
     ]
   ],
   "text_variables": {}
